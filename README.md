@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**drprajapati/drprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Name: Darshan Prajapati🧑🏽‍💻
 
-Here are some ideas to get you started:
+## 📚 Education : 
+  - Master of Applied Computer Science(MACompSc), Concordia University
+  - Beachlor of Technology in Information Technology, Charotar University of Science and Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑🏽‍💻 Experience: 
+  - Technology Assistant, Concordia University
+  - Full Stack Developer-Freelancer, Novarsys Tech
+  - Artificial Intelligence Intern, Indian Army
+  - Deep Learning Intern, LeadingIndia.AI
+ 
+
+- 🔭 I'm currently working on certain projects from which I can get the path of creating the pipelines, exploring system design and developing microservices using java and python. 
+- 📫 How to reach me: dprajapati5206@gmail.com
+- 😄 Pronouns: He/Him
